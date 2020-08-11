@@ -1,6 +1,8 @@
 # Calculator
 A Calculator with the basic operation (addition, subtraction, multiplication, division, power) implemented.
+
 Converted the mathematical expression from infix to postfix.
+
 Developed using the Shunting Yard algorithm. 
 
 
